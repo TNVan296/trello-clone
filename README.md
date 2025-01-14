@@ -1,4 +1,4 @@
-# Project 1: Doi Qua Kun
+# Project 1: Trello Clone (MERN Stack)
 
 ## Commit Message
 
